@@ -149,7 +149,7 @@
 ## 数据统计
 
 <div align="center">
-  <img width="90%" src="./metrics.svg" alt="GitHub Metrics" />
+  <img width="90%" src="./github-metrics.svg" alt="GitHub Metrics" />
 </div>
 
 > 统计图片由仓库内的 GitHub Actions 每天自动生成并提交（`.github/workflows/metrics.yml`），不依赖第三方在线服务。首次使用请在 Actions 中手动运行一次 **GitHub Metrics**。
