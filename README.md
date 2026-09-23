@@ -62,14 +62,20 @@
   <img src="https://img.shields.io/badge/微信小程序-07C160?style=flat-square&logo=wechat&logoColor=white" alt="WeChat Mini Program" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/AI%20Agent-8A2BE2?style=flat-square&logo=openai&logoColor=white" alt="AI Agent" />
+  <img src="https://img.shields.io/badge/uni--app-41B883?style=flat-square&logo=vuedotjs&logoColor=white" alt="uni-app" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/HarmonyOS-00C8FF?style=flat-square" alt="HarmonyOS" />
 </p>
 
 | 领域 | 技术 |
 | --- | :--- |
-| 后端 | Go、Gin、GORM、MySQL、Redis、JWT、Cobra |
+| 后端 | Go、Gin、GORM、MySQL、PostgreSQL、Redis、JWT、Cobra |
 | 前端 | Vue 3、TypeScript、Vite、Element Plus、Pinia、ECharts |
-| 移动端 | 微信小程序、公众号生态 |
-| AI 能力 | 大模型接口对接、智能问答、内容生成、学情分析 |
+| 移动端 | 微信小程序、公众号生态、uni-app、Flutter、Swift、鸿蒙（HarmonyOS） |
+| AI 能力 | 大模型接口对接、AI Agent 编排、智能问答、内容生成、学情分析 |
 | 存储与运维 | 本地存储、阿里云 OSS、腾讯云 COS、七牛云 Kodo、MinIO、Docker、Nginx |
 | 工程规范 | OpenAPI 文档、统一响应与 RBAC 权限、代码规范 Skill |
 
