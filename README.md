@@ -70,14 +70,14 @@
   <img src="https://img.shields.io/badge/HarmonyOS-00C8FF?style=flat-square" alt="HarmonyOS" />
 </p>
 
-| 领域 | 技术 |
-| --- | :--- |
-| 后端 | Go、Gin、GORM、MySQL、PostgreSQL、Redis、JWT、Cobra |
+| 领域 | 技术                                              |
+| --- |:------------------------------------------------|
+| 后端 | Go、Gin、GORM、MySQL、PostgreSQL、Redis、JWT、Cobra    |
 | 前端 | Vue 3、TypeScript、Vite、Element Plus、Pinia、ECharts |
 | 移动端 | 微信小程序、公众号生态、uni-app、Flutter、Swift、鸿蒙（HarmonyOS） |
-| AI 能力 | 大模型接口对接、AI Agent 编排、智能问答、内容生成、学情分析 |
+| AI 能力 | 大模型接口对接、AI Agent 编排、智能问答、内容生成、RAG知识库            |
 | 存储与运维 | 本地存储、阿里云 OSS、腾讯云 COS、七牛云 Kodo、MinIO、Docker、Nginx |
-| 工程规范 | OpenAPI 文档、统一响应与 RBAC 权限、代码规范 Skill |
+| 工程规范 | OpenAPI 文档、统一响应与 RBAC 权限、代码规范 Skill             |
 
 ---
 
